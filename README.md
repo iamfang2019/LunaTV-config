@@ -47,12 +47,12 @@ https://raw.githubusercontent.com/hafrey1/LunaTV-config/main/LunaTV-config.txt
 
 ## API 健康报告（每日自动检测API状态）
 
-## API 状态（最近更新：2025-10-10 05:12 CST）
+## API 状态（最近更新：2025-10-10 06:12 CST）
 
 - 总 API 数量：77
 - 成功 API 数量：73
 - 失败 API 数量：4
-- 平均可用率：96.6%
+- 平均可用率：96.5%
 - 完美可用率（100%）：48 个
 - 高可用率（80%-99%）：25 个
 - 中等可用率（50%-79%）：0 个
@@ -136,10 +136,10 @@ https://raw.githubusercontent.com/hafrey1/LunaTV-config/main/LunaTV-config.txt
 | ✅ | 🎬小猫咪 | https://zy.xmm.hk/api.php/provide/vod | 96 | 4 | 96.0% | 0 |
 | ✅ | 🎬爱奇艺 | https://iqiyizyapi.com/api.php/provide/vod | 96 | 4 | 96.0% | 0 |
 | ✅ | 🔞奥斯卡 | https://aosikazy.com/api.php/provide/vod | 92 | 8 | 92.0% | 0 |
-| 🚨 | 🎬U酷88 | https://dl.hafrey.dpdns.org/?url=https://api.ukuapi88.com/api.php/provide/vod | 44 | 56 | 44.0% | 56 |
-| 🚨 | 🎬U酷资源 | https://dl.hafrey.dpdns.org/?url=https://api.ukuapi.com/api.php/provide/vod | 44 | 56 | 44.0% | 56 |
-| 🚨 | 🎬如意资源 | https://dl.hafrey.dpdns.org/?url=https://cj.rycjapi.com/api.php/provide/vod | 44 | 56 | 44.0% | 56 |
-| 🚨 | 🎬魔爪资源 | https://dl.hafrey.dpdns.org/?url=https://mozhuazy.com/api.php/provide/vod | 44 | 56 | 44.0% | 56 |
+| 🚨 | 🎬U酷88 | https://dl.hafrey.dpdns.org/?url=https://api.ukuapi88.com/api.php/provide/vod | 43 | 57 | 43.0% | 57 |
+| 🚨 | 🎬U酷资源 | https://dl.hafrey.dpdns.org/?url=https://api.ukuapi.com/api.php/provide/vod | 43 | 57 | 43.0% | 57 |
+| 🚨 | 🎬如意资源 | https://dl.hafrey.dpdns.org/?url=https://cj.rycjapi.com/api.php/provide/vod | 43 | 57 | 43.0% | 57 |
+| 🚨 | 🎬魔爪资源 | https://dl.hafrey.dpdns.org/?url=https://mozhuazy.com/api.php/provide/vod | 43 | 57 | 43.0% | 57 |
 <!-- API_TABLE_END -->
 
 
