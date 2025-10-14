@@ -47,12 +47,12 @@ https://raw.githubusercontent.com/hafrey1/LunaTV-config/main/LunaTV-config.txt
 
 ## API 健康报告（每日自动检测API状态）
 
-## API 状态（最近更新：2025-10-14 21:26 CST）
+## API 状态（最近更新：2025-10-14 22:15 CST）
 
 - 总 API 数量：77
-- 成功 API 数量：73
-- 失败 API 数量：4
-- 平均可用率：92.9%
+- 成功 API 数量：72
+- 失败 API 数量：5
+- 平均可用率：92.8%
 - 完美可用率（100%）：60 个
 - 高可用率（80%-99%）：11 个
 - 中等可用率（50%-79%）：0 个
@@ -133,7 +133,7 @@ https://raw.githubusercontent.com/hafrey1/LunaTV-config/main/LunaTV-config.txt
 | ✅ | 🎬小猫咪 | https://zy.xmm.hk/api.php/provide/vod | 97 | 3 | 97.0% | 0 |
 | ✅ | 🔞jkun资源 | https://jkunzyapi.com/api.php/provide/vod | 97 | 3 | 97.0% | 0 |
 | ✅ | 🔞奥斯卡 | https://aosikazy.com/api.php/provide/vod | 96 | 4 | 96.0% | 0 |
-| ✅ | 🎬360资源 | https://360zy.com/api.php/provide/vod | 95 | 5 | 95.0% | 0 |
+| ❌ | 🎬360资源 | https://360zy.com/api.php/provide/vod | 94 | 6 | 94.0% | 1 |
 | ✅ | 🎬卧龙资源 | https://wolongzyw.com/api.php/provide/vod | 37 | 63 | 37.0% | 0 |
 | ✅ | 🎬卧龙资源1 | https://collect.wolongzyw.com/api.php/provide/vod | 37 | 63 | 37.0% | 0 |
 | 🚨 | 🎬U酷88 | https://dl.hafrey.dpdns.org/?url=https://api.ukuapi88.com/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
