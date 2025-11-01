@@ -301,6 +301,16 @@
       "api": "https://api.douapi.cc/api.php/provide/vod",
       "detail": "https://doudouzy.com"
     },
+    "douapi": {
+      "name": "🔞X细胞资源",
+      "api": "https://www.xxibaozyw.com/api.php/provide/vod",
+      "detail": "https://www.xxibaozyw.com"
+    },
+    "Xxibaoziyuan": {
+      "name": "🔞91shipin",
+      "api": "https://91av.cyou/api.php/provide/vod/",
+      "detail": "https://91av.cyou"
+    },
     "xzybb2": {
       "name": "🔞滴滴资源",
       "api": "https://api.ddapi.cc/api.php/provide/vod",
@@ -308,3 +318,4 @@
     }
   }
 }
+
