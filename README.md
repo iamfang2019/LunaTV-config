@@ -146,12 +146,12 @@ https://api.example.workers.dev/?config=1&encode=base58
   
 # API 健康报告（每日自动检测API状态）
 
-## API 状态（最近更新：2025-11-11 02:20 CST）
+## API 状态（最近更新：2025-11-11 03:11 CST）
 
 - 总 API 数量：62
-- 成功 API 数量：60
-- 失败 API 数量：2
-- 平均可用率：98.6%
+- 成功 API 数量：61
+- 失败 API 数量：1
+- 平均可用率：98.5%
 - 完美可用率（100%）：48 个
 - 高可用率（80%-99%）：13 个
 - 中等可用率（50%-79%）：1 个
@@ -222,8 +222,8 @@ https://api.example.workers.dev/?config=1&encode=base58
 | ✅ | 🎬U酷88 | https://jjpz.hafrey.dpdns.org/?url=https://api.ukuapi88.com/api.php/provide/vod | 89 | 11 | 89.0% | 0 |
 | ✅ | 🎬U酷资源 | https://jjpz.hafrey.dpdns.org/?url=https://api.ukuapi.com/api.php/provide/vod | 89 | 11 | 89.0% | 0 |
 | ✅ | 🎬电影天堂 | http://caiji.dyttzyapi.com/api.php/provide/vod | 89 | 11 | 89.0% | 0 |
-| ❌ | 🎬如意资源 | https://jjpz.hafrey.dpdns.org/?url=https://cj.rycjapi.com/api.php/provide/vod | 88 | 12 | 88.0% | 1 |
-| 🚨 | 🔞91shipin | https://91av.cyou/api.php/provide/vod/ | 69 | 31 | 69.0% | 31 |
+| ✅ | 🎬如意资源 | https://jjpz.hafrey.dpdns.org/?url=https://cj.rycjapi.com/api.php/provide/vod | 88 | 12 | 88.0% | 0 |
+| 🚨 | 🔞91shipin | https://91av.cyou/api.php/provide/vod/ | 68 | 32 | 68.0% | 32 |
 <!-- API_TABLE_END -->
 
 
