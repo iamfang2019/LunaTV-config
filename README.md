@@ -146,14 +146,14 @@ https://api.example.workers.dev/?config=1&encode=base58
   
 # API 健康报告（每日自动检测API状态）
 
-## API 状态（最近更新：2025-11-10 21:27 CST）
+## API 状态（最近更新：2025-11-10 22:14 CST）
 
 - 总 API 数量：62
 - 成功 API 数量：61
 - 失败 API 数量：1
 - 平均可用率：98.6%
-- 完美可用率（100%）：45 个
-- 高可用率（80%-99%）：16 个
+- 完美可用率（100%）：46 个
+- 高可用率（80%-99%）：15 个
 - 中等可用率（50%-79%）：1 个
 - 低可用率（<50%）：0 个
 
@@ -189,6 +189,7 @@ https://api.example.workers.dev/?config=1&encode=base58
 | ✅ | 🔞91麻豆 | https://91md.me/api.php/provide/vod | 100 | 0 | 100.0% | 0 |
 | ✅ | 🔞AIvin | http://lbapiby.com/api.php/provide/vod | 100 | 0 | 100.0% | 0 |
 | ✅ | 🔞CK资源 | https://ckzy.me/api.php/provide/vod | 100 | 0 | 100.0% | 0 |
+| ✅ | 🔞jkun资源 | https://jkunzyapi.com/api.php/provide/vod | 100 | 0 | 100.0% | 0 |
 | ✅ | 🔞souavZY | https://api.souavzy.vip/api.php/provide/vod | 100 | 0 | 100.0% | 0 |
 | ✅ | 🔞X细胞资源 | https://www.xxibaozyw.com/api.php/provide/vod | 100 | 0 | 100.0% | 0 |
 | ✅ | 🔞乐播资源 | https://lbapi9.com/api.php/provide/vod | 100 | 0 | 100.0% | 0 |
@@ -215,7 +216,6 @@ https://api.example.workers.dev/?config=1&encode=base58
 | ✅ | 🎬豪华资源 | https://jjpz.hafrey.dpdns.org/?url=https://hhzyapi.com/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
 | ✅ | 🎬非凡影视 | https://cj.ffzyapi.com/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
 | ✅ | 🎬飘零资源 | https://p2100.net/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
-| ✅ | 🔞jkun资源 | https://jkunzyapi.com/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
 | ✅ | 🔞桃花资源 | https://thzy1.me/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
 | ✅ | 🔞精品资源 | https://www.jingpinx.com/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
 | ✅ | 🎬豆瓣资源 | https://caiji.dbzy5.com/api.php/provide/vod | 93 | 7 | 93.0% | 0 |
@@ -223,7 +223,7 @@ https://api.example.workers.dev/?config=1&encode=base58
 | ✅ | 🎬U酷资源 | https://jjpz.hafrey.dpdns.org/?url=https://api.ukuapi.com/api.php/provide/vod | 89 | 11 | 89.0% | 0 |
 | ✅ | 🎬如意资源 | https://jjpz.hafrey.dpdns.org/?url=https://cj.rycjapi.com/api.php/provide/vod | 89 | 11 | 89.0% | 0 |
 | ✅ | 🎬电影天堂 | http://caiji.dyttzyapi.com/api.php/provide/vod | 89 | 11 | 89.0% | 0 |
-| 🚨 | 🔞91shipin | https://91av.cyou/api.php/provide/vod/ | 74 | 26 | 74.0% | 26 |
+| 🚨 | 🔞91shipin | https://91av.cyou/api.php/provide/vod/ | 73 | 27 | 73.0% | 27 |
 <!-- API_TABLE_END -->
 
 
