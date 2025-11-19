@@ -146,11 +146,11 @@ https://api.example.workers.dev/?config=1&encode=base58
   
 # API 健康报告（每日自动检测API状态）
 
-## API 状态（最近更新：2025-11-20 02:21 CST）
+## API 状态（最近更新：2025-11-20 03:12 CST）
 
 - 总 API 数量：62
-- 成功 API 数量：56
-- 失败 API 数量：6
+- 成功 API 数量：57
+- 失败 API 数量：5
 - 平均可用率：90.3%
 - 完美可用率（100%）：21 个
 - 高可用率（80%-99%）：36 个
@@ -183,7 +183,7 @@ https://api.example.workers.dev/?config=1&encode=base58
 | ✅ | 🔞森林资源 | https://beiyong.slapibf.com/api.php/provide/vod | 100 | 0 | 100.0% | 0 |
 | ✅ | 🔞番号资源 | http://fhapi9.com/api.php/provide/vod | 100 | 0 | 100.0% | 0 |
 | ✅ | 🔞辣椒资源 | https://apilj.com/api.php/provide/vod | 100 | 0 | 100.0% | 0 |
-| ❌ | 🎬卧龙资源1 | https://collect.wolongzyw.com/api.php/provide/vod | 99 | 1 | 99.0% | 1 |
+| ✅ | 🎬卧龙资源1 | https://collect.wolongzyw.com/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
 | ✅ | 🎬极速资源 | https://jszyapi.com/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
 | ✅ | 🎬茅台资源 | https://caiji.maotaizy.cc/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
 | ✅ | 🎬豆瓣资源 | https://caiji.dbzy5.com/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
