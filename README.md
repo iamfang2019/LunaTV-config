@@ -146,12 +146,12 @@ https://api.example.workers.dev/?config=1&encode=base58
   
 # API 健康报告（每日自动检测API状态）
 
-## API 状态（最近更新：2025-11-25 04:16 CST）
+## API 状态（最近更新：2025-11-25 05:13 CST）
 
 - 总 API 数量：62
 - 成功 API 数量：56
 - 失败 API 数量：6
-- 平均可用率：91.3%
+- 平均可用率：91.2%
 - 完美可用率（100%）：43 个
 - 高可用率（80%-99%）：13 个
 - 中等可用率（50%-79%）：1 个
@@ -214,8 +214,8 @@ https://api.example.workers.dev/?config=1&encode=base58
 | ✅ | 🔞小鸡资源 | https://api.xiaojizy.live/provide/vod | 99 | 1 | 99.0% | 0 |
 | ✅ | 🔞森林资源 | https://beiyong.slapibf.com/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
 | ✅ | 🔞黄色仓库 | https://hsckzy.xyz/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
-| ❌ | 🎬卧龙资源1 | https://collect.wolongzyw.com/api.php/provide/vod | 98 | 2 | 98.0% | 2 |
 | ✅ | 🎬魔都动漫 | https://caiji.moduapi.cc/api.php/provide/vod | 98 | 2 | 98.0% | 0 |
+| 🚨 | 🎬卧龙资源1 | https://collect.wolongzyw.com/api.php/provide/vod | 97 | 3 | 97.0% | 3 |
 | ✅ | 🎬茅台资源 | https://caiji.maotaizy.cc/api.php/provide/vod | 97 | 3 | 97.0% | 0 |
 | ✅ | 🎬飘零资源 | https://p2100.net/api.php/provide/vod | 97 | 3 | 97.0% | 0 |
 | ✅ | 🔞幸资源 | https://xzybb2.com/api.php/provide/vod | 77 | 23 | 77.0% | 0 |
