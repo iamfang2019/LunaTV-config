@@ -146,11 +146,11 @@ https://api.example.workers.dev/?config=1&encode=base58
   
 # API 健康报告（每日自动检测API状态）
 
-## API 状态（最近更新：2026-04-10 05:41 CST）
+## API 状态（最近更新：2026-04-10 06:34 CST）
 
 - 总 API 数量：62
-- 成功 API 数量：51
-- 失败 API 数量：11
+- 成功 API 数量：52
+- 失败 API 数量：10
 - 平均可用率：83.2%
 - 完美可用率（100%）：39 个
 - 高可用率（80%-99%）：13 个
@@ -206,7 +206,7 @@ https://api.example.workers.dev/?config=1&encode=base58
 | ✅ | 🎬卧龙资源1 | https://collect.wolongzyw.com/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
 | ✅ | 🎬爱奇艺 | https://iqiyizyapi.com/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
 | ✅ | 🎬量子资源 | https://cj.lzcaiji.com/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
-| ❌ | 🎬金鹰点播 | https://jinyingzy.com/api.php/provide/vod | 99 | 1 | 99.0% | 1 |
+| ✅ | 🎬金鹰点播 | https://jinyingzy.com/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
 | ✅ | 🔞91麻豆 | https://91md.me/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
 | ✅ | 🔞森林资源 | https://beiyong.slapibf.com/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
 | ✅ | 🎬旺旺短剧 | https://wwzy.tv/api.php/provide/vod | 98 | 2 | 98.0% | 0 |
