@@ -146,7 +146,7 @@ https://api.example.workers.dev/?config=1&encode=base58
   
 # API 健康报告（每日自动检测API状态）
 
-## API 状态（最近更新：2026-06-19 00:56 CST）
+## API 状态（最近更新：2026-06-19 03:22 CST）
 
 - 总 API 数量：62
 - 成功 API 数量：51
@@ -210,7 +210,7 @@ https://api.example.workers.dev/?config=1&encode=base58
 | ✅ | 🎬卧龙资源 | https://wolongzyw.com/api.php/provide/vod | 93 | 7 | 93.0% | 0 |
 | ✅ | 🔞森林资源 | https://beiyong.slapibf.com/api.php/provide/vod | 93 | 7 | 93.0% | 0 |
 | ✅ | 🔞奶香资源 | https://Naixxzy.com/api.php/provide/vod | 92 | 8 | 92.0% | 0 |
-| ✅ | 🔞souavZY | https://api.souavzy.vip/api.php/provide/vod | 90 | 10 | 90.0% | 0 |
+| ✅ | 🔞souavZY | https://api.souavzy.vip/api.php/provide/vod | 91 | 9 | 91.0% | 0 |
 | ✅ | 🔞黄色仓库 | https://hsckzy.xyz/api.php/provide/vod | 88 | 12 | 88.0% | 0 |
 | ✅ | 🎬茅台资源 | https://caiji.maotaizy.cc/api.php/provide/vod | 80 | 20 | 80.0% | 0 |
 | 🚨 | 🎬U酷88 | https://jjpz.hafrey.dpdns.org/?url=https://api.ukuapi88.com/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
