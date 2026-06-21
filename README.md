@@ -146,12 +146,12 @@ https://api.example.workers.dev/?config=1&encode=base58
   
 # API 健康报告（每日自动检测API状态）
 
-## API 状态（最近更新：2026-06-21 17:40 CST）
+## API 状态（最近更新：2026-06-21 20:07 CST）
 
 - 总 API 数量：62
 - 成功 API 数量：50
 - 失败 API 数量：12
-- 平均可用率：80.7%
+- 平均可用率：80.6%
 - 完美可用率（100%）：23 个
 - 高可用率（80%-99%）：27 个
 - 中等可用率（50%-79%）：1 个
@@ -200,13 +200,13 @@ https://api.example.workers.dev/?config=1&encode=base58
 | ✅ | 🔞滴滴资源 | https://api.ddapi.cc/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
 | ✅ | 🔞百万资源 | https://api.bwzyz.com/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
 | ✅ | 🔞精品资源 | https://www.jingpinx.com/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
-| ✅ | 🎬光速资源 | https://api.guangsuapi.com/api.php/provide/vod | 98 | 2 | 98.0% | 0 |
 | ✅ | 🎬无尽资源1 | https://api.wujinapi.com/api.php/provide/vod | 98 | 2 | 98.0% | 0 |
 | ✅ | 🎬非凡影视 | https://cj.ffzyapi.com/api.php/provide/vod | 98 | 2 | 98.0% | 0 |
 | ✅ | 🔞AIvin | http://lbapiby.com/api.php/provide/vod | 98 | 2 | 98.0% | 0 |
+| ❌ | 🎬光速资源 | https://api.guangsuapi.com/api.php/provide/vod | 97 | 3 | 97.0% | 1 |
 | ✅ | 🎬卧龙资源 | https://wolongzyw.com/api.php/provide/vod | 97 | 3 | 97.0% | 0 |
 | ✅ | 🎬飘零资源 | https://p2100.net/api.php/provide/vod | 97 | 3 | 97.0% | 0 |
-| ❌ | 🎬爱奇艺 | https://iqiyizyapi.com/api.php/provide/vod | 95 | 5 | 95.0% | 1 |
+| ✅ | 🎬爱奇艺 | https://iqiyizyapi.com/api.php/provide/vod | 95 | 5 | 95.0% | 0 |
 | ✅ | 🎬猫眼资源 | https://api.maoyanapi.top/api.php/provide/vod | 95 | 5 | 95.0% | 0 |
 | ✅ | 🔞森林资源 | https://beiyong.slapibf.com/api.php/provide/vod | 93 | 7 | 93.0% | 0 |
 | ✅ | 🎬豆瓣资源 | https://caiji.dbzy5.com/api.php/provide/vod | 92 | 8 | 92.0% | 0 |
