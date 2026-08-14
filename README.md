@@ -146,12 +146,12 @@ https://api.example.workers.dev/?config=1&encode=base58
   
 # API 健康报告（每日自动检测API状态）
 
-## API 状态（最近更新：2026-08-15 01:46 CST）
+## API 状态（最近更新：2026-08-15 02:43 CST）
 
 - 总 API 数量：62
-- 成功 API 数量：46
-- 失败 API 数量：16
-- 平均可用率：79.0%
+- 成功 API 数量：47
+- 失败 API 数量：15
+- 平均可用率：78.9%
 - 完美可用率（100%）：33 个
 - 高可用率（80%-99%）：13 个
 - 中等可用率（50%-79%）：5 个
@@ -206,13 +206,13 @@ https://api.example.workers.dev/?config=1&encode=base58
 | ✅ | 🔞桃花资源 | https://thzy1.me/api.php/provide/vod | 91 | 9 | 91.0% | 0 |
 | ✅ | 🔞CK资源 | https://ckzy.me/api.php/provide/vod | 90 | 10 | 90.0% | 0 |
 | ✅ | 🔞精品资源 | https://www.jingpinx.com/api.php/provide/vod | 90 | 10 | 90.0% | 0 |
-| ❌ | 🎬爱奇艺 | https://iqiyizyapi.com/api.php/provide/vod | 86 | 14 | 86.0% | 1 |
+| ✅ | 🎬爱奇艺 | https://iqiyizyapi.com/api.php/provide/vod | 87 | 13 | 87.0% | 0 |
 | ✅ | 🔞黄色仓库 | https://hsckzy.xyz/api.php/provide/vod | 85 | 15 | 85.0% | 0 |
-| ✅ | 🎬金鹰点播 | https://jinyingzy.com/api.php/provide/vod | 78 | 22 | 78.0% | 0 |
-| 🚨 | 🎬非凡影视 | https://cj.ffzyapi.com/api.php/provide/vod | 73 | 27 | 73.0% | 27 |
-| 🚨 | 🎬优质资源 | https://api.yzzy-api.com/inc/apijson.php | 72 | 28 | 72.0% | 27 |
-| 🚨 | 🎬电影天堂 | http://caiji.dyttzyapi.com/api.php/provide/vod | 72 | 28 | 72.0% | 27 |
-| 🚨 | 🎬非凡资源 | https://api.ffzyapi.com/api.php/provide/vod | 72 | 28 | 72.0% | 27 |
+| ✅ | 🎬金鹰点播 | https://jinyingzy.com/api.php/provide/vod | 79 | 21 | 79.0% | 0 |
+| 🚨 | 🎬非凡影视 | https://cj.ffzyapi.com/api.php/provide/vod | 72 | 28 | 72.0% | 28 |
+| 🚨 | 🎬优质资源 | https://api.yzzy-api.com/inc/apijson.php | 71 | 29 | 71.0% | 28 |
+| 🚨 | 🎬电影天堂 | http://caiji.dyttzyapi.com/api.php/provide/vod | 71 | 29 | 71.0% | 28 |
+| 🚨 | 🎬非凡资源 | https://api.ffzyapi.com/api.php/provide/vod | 71 | 29 | 71.0% | 28 |
 | 🚨 | 🎬U酷88 | https://jjpz.hafrey.dpdns.org/?url=https://api.ukuapi88.com/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
 | 🚨 | 🎬U酷资源 | https://jjpz.hafrey.dpdns.org/?url=https://api.ukuapi.com/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
 | 🚨 | 🎬如意资源 | https://jjpz.hafrey.dpdns.org/?url=https://cj.rycjapi.com/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
