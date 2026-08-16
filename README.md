@@ -146,11 +146,11 @@ https://api.example.workers.dev/?config=1&encode=base58
   
 # API 健康报告（每日自动检测API状态）
 
-## API 状态（最近更新：2026-08-16 13:21 CST）
+## API 状态（最近更新：2026-08-16 14:27 CST）
 
 - 总 API 数量：62
-- 成功 API 数量：46
-- 失败 API 数量：16
+- 成功 API 数量：47
+- 失败 API 数量：15
 - 平均可用率：77.1%
 - 完美可用率（100%）：34 个
 - 高可用率（80%-99%）：12 个
@@ -199,7 +199,7 @@ https://api.example.workers.dev/?config=1&encode=base58
 | ✅ | 🔞AIvin | http://lbapiby.com/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
 | ✅ | 🔞X细胞资源 | https://www.xxibaozyw.com/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
 | ✅ | 🔞乐播资源 | https://lbapi9.com/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
-| ❌ | 🔞奶香资源 | https://Naixxzy.com/api.php/provide/vod | 99 | 1 | 99.0% | 1 |
+| ✅ | 🔞奶香资源 | https://Naixxzy.com/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
 | ✅ | 🔞番号资源 | http://fhapi9.com/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
 | ✅ | 🎬无尽资源1 | https://api.wujinapi.com/api.php/provide/vod | 98 | 2 | 98.0% | 0 |
 | ✅ | 🔞91麻豆 | https://91md.me/api.php/provide/vod | 98 | 2 | 98.0% | 0 |
@@ -209,10 +209,10 @@ https://api.example.workers.dev/?config=1&encode=base58
 | ✅ | 🔞CK资源 | https://ckzy.me/api.php/provide/vod | 90 | 10 | 90.0% | 0 |
 | ✅ | 🔞精品资源 | https://www.jingpinx.com/api.php/provide/vod | 90 | 10 | 90.0% | 0 |
 | ✅ | 🔞黄色仓库 | https://hsckzy.xyz/api.php/provide/vod | 79 | 21 | 79.0% | 0 |
-| 🚨 | 🎬非凡影视 | https://cj.ffzyapi.com/api.php/provide/vod | 39 | 61 | 39.0% | 61 |
-| 🚨 | 🎬优质资源 | https://api.yzzy-api.com/inc/apijson.php | 38 | 62 | 38.0% | 61 |
-| 🚨 | 🎬电影天堂 | http://caiji.dyttzyapi.com/api.php/provide/vod | 38 | 62 | 38.0% | 61 |
-| 🚨 | 🎬非凡资源 | https://api.ffzyapi.com/api.php/provide/vod | 38 | 62 | 38.0% | 61 |
+| 🚨 | 🎬非凡影视 | https://cj.ffzyapi.com/api.php/provide/vod | 38 | 62 | 38.0% | 62 |
+| 🚨 | 🎬优质资源 | https://api.yzzy-api.com/inc/apijson.php | 37 | 63 | 37.0% | 62 |
+| 🚨 | 🎬电影天堂 | http://caiji.dyttzyapi.com/api.php/provide/vod | 37 | 63 | 37.0% | 62 |
+| 🚨 | 🎬非凡资源 | https://api.ffzyapi.com/api.php/provide/vod | 37 | 63 | 37.0% | 62 |
 | 🚨 | 🎬U酷88 | https://jjpz.hafrey.dpdns.org/?url=https://api.ukuapi88.com/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
 | 🚨 | 🎬U酷资源 | https://jjpz.hafrey.dpdns.org/?url=https://api.ukuapi.com/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
 | 🚨 | 🎬如意资源 | https://jjpz.hafrey.dpdns.org/?url=https://cj.rycjapi.com/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
